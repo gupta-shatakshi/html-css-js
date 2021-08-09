@@ -10,7 +10,8 @@
 •	Here is the source code for it:
 https://codepen.io/shatakshigupta/pen/KKmrOXZ
 
-<img src="" width="300px" height="200px"/>
+<img src="https://user-images.githubusercontent.com/85827044/128728462-5dbfaebf-b060-4a9d-be52-655964eb86bd.png" width="350px" height="200px"/>
+
 
 
 
@@ -23,7 +24,7 @@ console.log (addTwoNum (5, 6));
 •	Here is the source code for it:
 https://codepen.io/shatakshigupta/pen/zYwMgVQ
 
-<img src="" width="300px" height="200px"/>
+<img src="https://user-images.githubusercontent.com/85827044/128728460-275eaa6e-8f9f-4638-ad4d-b77769483bf2.png" width="300px" height="200px"/>
 
 	
 
@@ -34,7 +35,7 @@ https://codepen.io/shatakshigupta/pen/zYwMgVQ
 •	Here is the source code for it:
 https://codepen.io/shatakshigupta/pen/gOWZYyj?editors=1111
 
-<img src="" width="300px" height="200px"/>
+<img src="https://user-images.githubusercontent.com/85827044/128728456-8ed74ffe-513f-496f-8d22-7c3e2566eac9.png" width="300px" height="200px"/>
 
 
 
@@ -45,7 +46,7 @@ https://codepen.io/shatakshigupta/pen/gOWZYyj?editors=1111
 Here is the source code for it: 
 https://codepen.io/shatakshigupta/pen/Vwbqwqq
 
-<img src="" width="300px" height="200px"/>
+<img src="https://user-images.githubusercontent.com/85827044/128728479-9a0e6294-f79e-4f91-bd35-4109d6ed0047.png" width="350px" height="200px"/>
 
 
 
@@ -89,7 +90,8 @@ console.log(array3.splice(1,3));
 •	Here is the source code for it:
 https://codepen.io/shatakshigupta/pen/jOmXEWm?editors=1012
 
-<img src="" width="300px" height="200px"/>
+<img src="https://user-images.githubusercontent.com/85827044/128728474-875f8423-7303-400c-aa3c-669b3dc16d2e.png" width="300px" height="200px"/>
+
 
 
 
@@ -108,7 +110,7 @@ console.log(array);
 •	Here is the source code for it:
 https://codepen.io/shatakshigupta/pen/eYWbmGj?editors=1012
 
-<img src="" width="300px" height="200px"/>
+<img src="https://user-images.githubusercontent.com/85827044/128728472-168babd6-0dcc-47ee-aee1-014e0bdbd09b.png" width="300px" height="200px"/>
 
 
 
@@ -127,6 +129,8 @@ https://codepen.io/shatakshigupta/pen/eYWbmGj?editors=1012
 •	Here is the source code for the above task:
 https://codepen.io/shatakshigupta/pen/gOWZbym?editors=1111
 
-<img src="" width="300px" height="200px"/>
+
+<img src="https://user-images.githubusercontent.com/85827044/128728466-c59e5521-71b0-4f4c-8c7d-6979f2b323f7.png" width="350px" height="200px"/>
+
 
 
