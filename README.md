@@ -10,6 +10,8 @@
 •	Here is the source code for it:
 https://codepen.io/shatakshigupta/pen/KKmrOXZ
 
+<img src="" width="300px" height="200px"/>
+
 
 
 **2.	Add two numbers using arrow functions.**
@@ -21,6 +23,8 @@ console.log (addTwoNum (5, 6));
 •	Here is the source code for it:
 https://codepen.io/shatakshigupta/pen/zYwMgVQ
 
+<img src="" width="300px" height="200px"/>
+
 	
 
 **3.	How to add elements at the last of an array**
@@ -30,6 +34,8 @@ https://codepen.io/shatakshigupta/pen/zYwMgVQ
 •	Here is the source code for it:
 https://codepen.io/shatakshigupta/pen/gOWZYyj?editors=1111
 
+<img src="" width="300px" height="200px"/>
+
 
 
 **4.	Draw a SVG Circle of Radius 20-30 m**
@@ -38,6 +44,8 @@ https://codepen.io/shatakshigupta/pen/gOWZYyj?editors=1111
 
 Here is the source code for it: 
 https://codepen.io/shatakshigupta/pen/Vwbqwqq
+
+<img src="" width="300px" height="200px"/>
 
 
 
@@ -81,6 +89,8 @@ console.log(array3.splice(1,3));
 •	Here is the source code for it:
 https://codepen.io/shatakshigupta/pen/jOmXEWm?editors=1012
 
+<img src="" width="300px" height="200px"/>
+
 
 
 **6.	How can we add elements at any specific position in JS?**
@@ -98,6 +108,8 @@ console.log(array);
 •	Here is the source code for it:
 https://codepen.io/shatakshigupta/pen/eYWbmGj?editors=1012
 
+<img src="" width="300px" height="200px"/>
+
 
 
 **7.	Create a anchor tag heading tag and paragraph tag and add LinkedIn link**
@@ -114,4 +126,7 @@ https://codepen.io/shatakshigupta/pen/eYWbmGj?editors=1012
 
 •	Here is the source code for the above task:
 https://codepen.io/shatakshigupta/pen/gOWZbym?editors=1111
+
+<img src="" width="300px" height="200px"/>
+
 
